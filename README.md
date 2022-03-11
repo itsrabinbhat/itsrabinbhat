@@ -10,8 +10,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrabinbhat&show_icons=true&theme=blueberry&icon_color=fff)
 
 ## Follow Me
-![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)
-![""](https://img.shields.io/twitter/follow/rabin_bhat?style=social&label=Follow)
+[![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
+[![""](https://img.shields.io/twitter/follow/rabin_bhat?style=social&label=Follow)](https://twitter.com/rabin_bhat)
 
 ## MY Skills
 
