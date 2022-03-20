@@ -27,6 +27,7 @@
 
 
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=50ProjectChallenge&theme=blueberry)](https://github.com/itsrabinbhat/manage-users-react-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=50ProjectChallenge&theme=blueberry)](https://github.com/itsrabinbhat/50ProjectChallenge)
 
