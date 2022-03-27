@@ -1,11 +1,6 @@
-### Hi there 👋
+# Hey Gorgeous Friends 😁
 
-- 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning React-JS.
-- 👯 I’m looking to collaborate on front-end projects.
-- 📫 How to reach me: www.irabinbhat.me
-- ⚡ Fun fact: Code if you wanna get high.
--->
+www.irabinbhat.me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrabinbhat&show_icons=true&theme=blueberry&icon_color=fff)
 
@@ -13,7 +8,7 @@
 [![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
 [![""](https://img.shields.io/twitter/follow/rabin_bhat?style=social&label=Follow)](https://twitter.com/rabin_bhat)
 
-## MY Skills
+## My Skills
 
 ![""](https://img.shields.io/badge/HTML5-white?logo=html5)
 ![""](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=orange)
@@ -26,9 +21,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrabinbhat&layout=compact&theme=blueberry)](https://github.com/itsrabinbhat)
 
 
----
+## Some Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=travel-companion&theme=blueberry)](https://github.com/itsrabinbhat/travel-companion)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=manage-users-react-app&theme=blueberry)](https://github.com/itsrabinbhat/manage-users-react-app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=50ProjectChallenge&theme=blueberry)](https://github.com/itsrabinbhat/50ProjectChallenge)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=ITSNP-Workshop-Assignment&theme=blueberry)](https://github.com/itsrabinbhat/ITSNP-Workshop-Assignment)
