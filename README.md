@@ -2,6 +2,8 @@
 
 www.irabinbhat.me
 
+![Profile](https://gpvc.arturio.dev/itsrabinbhat)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrabinbhat&show_icons=true&theme=blueberry&icon_color=fff)
 
 ## Follow Me
