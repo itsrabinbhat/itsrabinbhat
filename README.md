@@ -22,11 +22,3 @@ www.irabinbhat.me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrabinbhat&layout=compact&theme=blueberry)](https://github.com/itsrabinbhat)
 
-
-## Some Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=travel-companion&theme=blueberry)](https://github.com/itsrabinbhat/travel-companion)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=manage-users-react-app&theme=blueberry)](https://github.com/itsrabinbhat/manage-users-react-app)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsrabinbhat&repo=ITSNP-Workshop-Assignment&theme=blueberry)](https://github.com/itsrabinbhat/ITSNP-Workshop-Assignment)
