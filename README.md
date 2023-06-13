@@ -15,6 +15,7 @@ www.irabinbhat.me
 ![""](https://img.shields.io/badge/HTML5-white?logo=html5)
 ![""](https://img.shields.io/badge/CSS3-white?logo=css3&logoColor=orange)
 ![""](https://img.shields.io/badge/JavaScript-white?logo=javascript)
+![""](https://img.shields.io/badge/Python-white?logo=python)
 ![""](https://img.shields.io/badge/ReactJS-white?logo=react)
 ![""](https://img.shields.io/badge/Git-white?logo=git)
 ![""](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)
