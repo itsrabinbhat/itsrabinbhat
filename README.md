@@ -1,5 +1,6 @@
 # Hola Amigos!!!
 
+![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrabinbhat&show_icons=true&theme=blueberry)
 
 ## Follow Me
 [![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
