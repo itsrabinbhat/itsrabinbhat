@@ -1,6 +1,10 @@
-# Hola Amigos!!
 ![](https://komarev.com/ghpvc/?username=itsrabinbhat)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsrabinbhat&theme=highcontrast)](https://git.io/streak-stats)
+<hr>
+Hi there, I am Rabi!<br>
+--> Computer Networking student at George Brown College.<br>
+--> A tech and cybersecurity enthusiast.<br>
+--> Currently learning Python and Penetration testing.<br>
 
 ## Follow Me
 [![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
