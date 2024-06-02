@@ -1,7 +1,6 @@
 # Hola Amigos!!
 ![](https://komarev.com/ghpvc/?username=itsrabinbhat)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsrabinbhat&theme=highcontrast)](https://git.io/streak-stats)
-![Rabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrabinbhat&show_icons=true&theme=blueberry)
 
 ## Follow Me
 [![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
@@ -18,5 +17,5 @@
 ![""](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap)
 ![""](https://img.shields.io/badge/Figma-white?logo=figma)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrabinbhat&layout=compact&theme=blueberry)](https://github.com/itsrabinbhat)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrabinbhat&layout=compact&theme=blueberry)](https://github.com/itsrabinbhat) -->
 
