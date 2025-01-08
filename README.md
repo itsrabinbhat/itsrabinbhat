@@ -8,7 +8,7 @@ Hi there, I am Rabi!<br>
 
 ## Follow Me
 [![""](https://img.shields.io/github/followers/itsrabinbhat?style=social&label=Follow)](https://github.com/itsrabinbhat)
-[![""](https://img.shields.io/twitter/follow/rabin_bhat?style=social&label=Follow)](https://twitter.com/rabin_bhat)
+[![""](https://img.shields.io/twitter/follow/its_meoz?style=social&label=Follow)](https://x.com/its_meoz)
 
 ## My Skills
 
