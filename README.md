@@ -7,7 +7,8 @@ Hi there, I am Rabi!<br>
 --> Currently learning Python and Penetration testing.<br>
 
 ## Try Hack Me Progress
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2326136)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/meoz.png)
+
 
 
 ## Follow Me
