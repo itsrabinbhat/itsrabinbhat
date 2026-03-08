@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=itsrabinbhat)<br>
-# [![GitHub Streak](https://streak-stats.demolab.com/?user=itsrabinbhat&theme=highcontrast)](https://git.io/streak-stats)
 <hr>
 Hi there, I am Rabi!<br>
 --> Computer Networking student at George Brown College.<br>
